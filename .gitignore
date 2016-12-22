@@ -12,7 +12,7 @@ regression.out
 pg_ontime--*.sql
 
 
-
+# Rstudio may be used to read compile documentation
 # History files
 .Rhistory
 .Rapp.history

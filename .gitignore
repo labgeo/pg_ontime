@@ -1,3 +1,18 @@
+
+results/
+*.so
+tmp/
+*.o
+regression.diffs
+regression.out
+/sql/range_partitioning--*
+!/sql/range_partitioning--*--*.sql
+*~
+
+pg_ontime--*.sql
+
+
+
 # History files
 .Rhistory
 .Rapp.history

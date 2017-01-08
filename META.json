@@ -1,0 +1,42 @@
+{
+   "name": "pg_ontime",
+   "abstract": "A PostgreSQL extension for working with ontime missions in a pg_dw database",
+   "description": "A PostgreSQL extension for working with ontime missions in a pg_dw database",
+   "version": "0.0.1",
+   "maintainer": [
+      "Benito M. Zaragozí <benizar@gmail.com>"
+   ],
+   "license": "GPL3",
+   "provides": {
+      "pg_ontime": {
+         "abstract": "A PostgreSQL extension for working with ontime missions in a pg_dw database",
+         "file": "pg_ontime.sql",
+         "docfile": "doc/pg_ontime.md",
+         "version": "0.0.1"
+      }
+   },
+   "resources": {
+      "homepage": "http://www.razineb.org/",
+      "bugtracker": {
+         "web": "https://github.com/razineb/pg_ontime/issues"
+      },
+      "repository": {
+        "url":  "git://github.com/razineb/pg_ontime.git",
+        "web":  "https://github.com/razineb/pg_ontime",
+        "type": "git"
+      }
+   },
+   "generated_by": "Benito M. Zaragozí",
+   "meta-spec": {
+      "version": "1.0.0",
+      "url": "http://pgxn.org/meta/spec.txt"
+   },
+   "tags": [
+      "missions",
+      "big data",
+      "geospatial",
+      "charts",
+      "statistics",
+      "geojson"
+   ]
+}

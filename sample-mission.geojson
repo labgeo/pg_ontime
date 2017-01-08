@@ -1,0 +1,422 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 1,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6042480468749999,
+          38.324420427006544,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 2,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.186767578125,
+          38.41916639395372,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 3,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.85693359375,
+          38.46219172306828,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 4,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6149902343749998,
+          38.50519140240354,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "ComplexItem",
+        "version": 1,
+        "frame": 5,
+        "cameraTrigger": true,
+        "cameraTriggerDistance": 25,
+        "complexItemType": "mini-SAR",
+        "fixedValueIsAltitude": false,
+        "grid": {
+          "altitude": 50,
+          "angle": 0,
+          "relativeAltitude": true,
+          "spacing": 30,
+          "turnAroundDistance": 0
+        },
+        "manualGrid": true,
+        "speed": [
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.197265625,
+            38.70265930723801,
+            0
+          ],
+          [
+            2.493896484375,
+            38.736946065676,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 6,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.14208984375,
+          38.77121637244273,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 7,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.93310546875,
+          39.027718840211605,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 8,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.427490234375,
+          39.46164364205549,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 9,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21875,
+          40.136890695345905,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "ComplexItem",
+        "version": 1,
+        "frame": 10,
+        "cameraTrigger": true,
+        "cameraTriggerDistance": 25,
+        "complexItemType": "mini-SAR",
+        "fixedValueIsAltitude": false,
+        "grid": {
+          "altitude": 50,
+          "angle": 0,
+          "relativeAltitude": true,
+          "spacing": 30,
+          "turnAroundDistance": 0
+        },
+        "manualGrid": true,
+        "speed": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.75732421875,
+            40.3130432088809
+          ],
+          [
+            3.548583984375,
+            40.32141999593439
+          ],
+          [
+            3.3618164062499996,
+            40.3130432088809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 11,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.92236328125,
+          40.10328591293439,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 12,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.208251953125,
+          39.926588421909436,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 13,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7358398437499998,
+          39.68182601089365,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 14,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.351318359375,
+          39.45316112807394,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 15,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.791015625,
+          39.223742741391284,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 16,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.274658203125,
+          39.095962936305476,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 17,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.208740234375,
+          38.8225909761771,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "SimpleItem",
+        "frame": 18,
+        "speed": 0,
+        "params": [
+          0,
+          0,
+          0
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.560302734375,
+          38.35888785866677,
+          0
+        ]
+      }
+    }
+  ]
+}
